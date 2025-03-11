@@ -6,3 +6,13 @@ for (i=1;i<n;i++){
 		}
 	return max;
 }
+
+int Findmin(int T[], int n){
+int i;
+for (i=1;i<n;i++){
+        if (T[i]<min)
+                min=T[i];
+                }
+        return min;
+}
+
