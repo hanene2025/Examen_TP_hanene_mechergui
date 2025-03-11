@@ -16,3 +16,11 @@ for (i=1;i<n;i++){
         return min;
 }
 
+
+void compare (int T[], int n){
+	printf("le maximum est %d \n", Findmax(T,n));
+        printf("le minimum est %d \n", Findmin(T,n));
+
+
+}
+
