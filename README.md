@@ -1,1 +1,1 @@
-# Examen_TP_hanene_mechergui
+Ce projet est utilisé pour l'evaluation des competences Git"
